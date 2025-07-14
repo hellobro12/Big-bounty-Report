@@ -1,0 +1,35 @@
+# Subdomain Takeover - blog.fakecorp.com
+
+## Summary:
+A subdomain takeover vulnerability was discovered on blog.fakecorp.com. The subdomain points to an unclaimed GitHub Pages repository (coolcorp.github.io), which allows any external attacker to claim it and control content under the company’s domain.
+
+
+## Steps to Reproduce:
+
+1. Visited the subdomain: http://blog.fakecorp.com
+2. Observed the response: "There isn't a GitHub Pages site here."
+3. Used `dig` to verify the CNAME:
+   → blog.fakecorp.com → coolcorp.github.io
+4. Created a new GitHub repository: coolcorp.github.io
+5. Added a simple HTML page: "<h1>Subdomain Claimed</h1>"
+6. Now, visiting http://blog.fakecorp.com displays attacker-controlled content.
+
+## Proof of Concept (PoC):
+
+Screenshot attached: blog.fakecorp.com now shows:
+<h1>Subdomain Claimed</h1>
+
+This proves that the subdomain is not protected and accepts content from any user who claims the GitHub repository.
+
+## Impact:
+
+An attacker can host phishing pages, malicious scripts, or impersonate the brand under the company domain. This could lead to:
+
+- Credential theft
+- Brand damage
+- Cookie theft or XSS (if the domain is trusted in CSP)
+
+## Recommended Fix:
+
+Remove the DNS CNAME record for blog.fakecorp.com if it is no longer used.  
+Alternatively, reclaim the GitHub repository (coolcorp.github.io) to prevent third-party takeover.
