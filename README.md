@@ -15,3 +15,14 @@ Each report includes:
 - Impact analysis
 - CVSS and OWASP risk ratings
 - Suggested mitigations
+
+### 🔐 Subdomain Takeover - Mock Report
+
+Added a mock bug bounty report demonstrating how subdomain takeover works.  
+Includes:
+- DNS misconfiguration walkthrough
+- How attackers identify and exploit unclaimed subdomains (GitHub-based)
+- Sample bug bounty report with proof-of-concept  
+- Tools used: `dig`, `subjack`, manual GitHub setup
+  
+
