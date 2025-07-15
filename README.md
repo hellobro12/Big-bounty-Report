@@ -1,4 +1,4 @@
-# 🔍 Bug Bounty Reports
+# 🔍 Bug Bounty Report
 
 This repository contains a collection of structured vulnerability reports based on real-world scenarios practiced in controlled environments like DVWA.
 
