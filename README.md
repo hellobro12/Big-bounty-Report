@@ -28,5 +28,6 @@ Includes:
 
   ### progress
  1.Completed few Auth related labs in portswigger using burpsuite.
+ 2. Have done a Assignment report on machine Dvwa with 3 attacks i. brute force ii.command Injection iii. file upload 
   
 
