@@ -30,9 +30,11 @@ Includes:
  1.Completed few Auth related labs in portswigger using burpsuite.
  2. Have done a Assignment report on machine Dvwa with 3 attacks i. brute force ii.command Injection iii. file upload 
 
-  ### Labs
-  1. JWT and SSRF
-  2.Stealing OAuth access tokens via an open redirect
-  3.Low-level logic flaw (business logic vulnerability)
-  
+### Labs
+1. JWT and SSRF
+2.Stealing OAuth access tokens via an open redirect
+3.Low-level logic flaw (business logic vulnerability)
+4. CSRF where token is duplicated 
+5.Business logic - Excessive Trust in Client-side controls 
+6.Business logic - high level logic vulnerability
 
