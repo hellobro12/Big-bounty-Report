@@ -26,18 +26,25 @@ Includes:
 - Sample bug bounty report with proof-of-concept  
 - Tools used: `dig`, `subjack`, manual GitHub setup
 
-  ### progress
- 1.Completed few Auth related labs in portswigger using burpsuite.
- 2. Have done a Assignment report on machine Dvwa with 3 attacks i. brute force ii.command Injection iii. file upload 
+### Progress
 
-### Labs
--JWT and SSRF
--Stealing OAuth access tokens via an open redirect
--Low-level logic flaw (business logic vulnerability)
--CSRF where token is duplicated 
--Business logic - Excessive Trust in Client-side controls 
--Business logic - high level logic vulnerability
--Authentication bypass via encryption oracle
--race condition Lab: Limit overrun race conditions
+1. Completed a few authentication-related labs in PortSwigger using Burp Suite.  
+2. Completed an assignment report on the DVWA machine with three attacks:  
+   - Brute Force  
+   - Command Injection  
+   - File Upload
+
+## Labs
+
+- **JWT and SSRF**
+- **Stealing OAuth Access Token** (vulnerability)
+- **CSRF** where token is duplicated
+- **Business Logic** vulnerabilities  
+  - High-level logic issues  
+  - Excessive trust in client-side controls
+- **Authentication Bypass via Encryption Oracle**
+- **Race Condition**  
+  - Lab: Limit overrun race conditions
+
  
 
