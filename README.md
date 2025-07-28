@@ -31,13 +31,13 @@ Includes:
  2. Have done a Assignment report on machine Dvwa with 3 attacks i. brute force ii.command Injection iii. file upload 
 
 ### Labs
-JWT and SSRF
-Stealing OAuth access tokens via an open redirect
-Low-level logic flaw (business logic vulnerability)
-CSRF where token is duplicated 
-Business logic - Excessive Trust in Client-side controls 
-Business logic - high level logic vulnerability
-Authentication bypass via encryption oracle
-race condition Lab: Limit overrun race conditions
+-JWT and SSRF
+-Stealing OAuth access tokens via an open redirect
+-Low-level logic flaw (business logic vulnerability)
+-CSRF where token is duplicated 
+-Business logic - Excessive Trust in Client-side controls 
+-Business logic - high level logic vulnerability
+-Authentication bypass via encryption oracle
+-race condition Lab: Limit overrun race conditions
  
 
