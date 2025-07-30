@@ -43,8 +43,12 @@ Includes:
   - High-level logic issues  
   - Excessive trust in client-side controls
 - **Authentication Bypass via Encryption Oracle**
-- **Race Condition**  
+- **Race Condition**
   - Lab: Limit overrun race conditions
+  - Multi-endpoint race conditions
+- **GraphQL**
+  - Accessing private GraphQL posts
+
 
  
 
