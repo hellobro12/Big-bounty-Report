@@ -46,8 +46,10 @@ Includes:
 - **Race Condition**
   - Lab: Limit overrun race conditions
   - Multi-endpoint race conditions
+  - Exploiting time-sensitive vulnerabilities
 - **GraphQL**
   - Accessing private GraphQL posts
+  - Accidental exposure of private GraphQL fields
 
 
  
