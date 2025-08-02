@@ -50,6 +50,7 @@ Includes:
 - **GraphQL**
   - Accessing private GraphQL posts
   - Accidental exposure of private GraphQL fields
+  - Bypassing GraphQL Brute Force Protections
 
 
  
