@@ -39,7 +39,7 @@ Includes:
 - **JWT and SSRF**
 - **Stealing OAuth Access Token** (vulnerability)
 - **CSRF** where token is duplicated
-- **Business Logic** vulnerabilities  
+- **Business Logic vulnerabilities**
   - High-level logic issues  
   - Excessive trust in client-side controls
 - **Authentication Bypass via Encryption Oracle**
@@ -54,6 +54,9 @@ Includes:
   - Performing CSRF Exploits Over GraphQL
 - **NoSQL**
   - Detecting NoSQL injection
+  - Exploiting NoSQL injection to extract data
+- **API Documentation**
+  - Exploiting an API endpoint using documentation
 
 
  
