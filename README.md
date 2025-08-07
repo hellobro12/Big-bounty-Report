@@ -57,6 +57,7 @@ Includes:
   - Exploiting NoSQL injection to extract data
 - **API Documentation**
   - Exploiting an API endpoint using documentation
+  - Finding and exploiting an unused API endpoint
 
 
  
