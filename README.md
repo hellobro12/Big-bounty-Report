@@ -36,28 +36,31 @@ Includes:
 
 ## Labs
 
-- **JWT and SSRF**
-- **Stealing OAuth Access Token** (vulnerability)
-- **CSRF** where token is duplicated
-- **Business Logic vulnerabilities**
+- *JWT and SSRF*
+- *Stealing OAuth Access Token* (vulnerability)
+- *CSRF* where token is duplicated
+- *Business Logic vulnerabilities*
   - High-level logic issues  
   - Excessive trust in client-side controls
-- **Authentication Bypass via Encryption Oracle**
-- **Race Condition**
+- *Authentication Bypass via Encryption Oracle*
+- *Race Condition*
   - Lab: Limit overrun race conditions
   - Multi-endpoint race conditions
   - Exploiting time-sensitive vulnerabilities
-- **GraphQL**
+- *GraphQL*
   - Accessing private GraphQL posts
   - Accidental exposure of private GraphQL fields
   - Bypassing GraphQL Brute Force Protections
   - Performing CSRF Exploits Over GraphQL
-- **NoSQL**
+- *NoSQL*
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
-- **API Documentation**
+- *API Documentation*
   - Exploiting an API endpoint using documentation
   - Finding and exploiting an unused API endpoint
+  - Exploiting server-side parameter pollution in a REST URL
+- *LLM API*
+  - Exploiting LLM APIs with excessive agency
 
 
  
