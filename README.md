@@ -62,8 +62,10 @@ Includes:
 - **LLM API**
   - Exploiting LLM APIs with excessive agency
   - Exploiting vulnerabilities in LLM APIs
+  - Indirect Prompt Injection
 - **Web Cache**
   - Web Cache Deception via Path Mapping
+  - Exploiting Path Delimiters for Web Cache Deception
 
 
 
