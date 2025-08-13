@@ -24,15 +24,6 @@ Includes:
 - DNS misconfiguration walkthrough
 - How attackers identify and exploit unclaimed subdomains (GitHub-based)
 - Sample bug bounty report with proof-of-concept  
-- Tools used: `dig`, `subjack`, manual GitHub setup
-
-### Progress
-
-1. Completed a few authentication-related labs in PortSwigger using Burp Suite.  
-2. Completed an assignment report on the DVWA machine with three attacks:  
-   - Brute Force  
-   - Command Injection  
-   - File Upload
 
 ## Labs
 
@@ -52,6 +43,9 @@ Includes:
   - Accidental exposure of private GraphQL fields
   - Bypassing GraphQL Brute Force Protections
   - Performing CSRF Exploits Over GraphQL
+- **SQL Injection**
+  - SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
+  - Exploiting Cache Server Normalization for Web Cache Deception
 - **NoSQL**
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
@@ -68,6 +62,8 @@ Includes:
   - Web Cache Deception via Path Mapping
   - Exploiting Path Delimiters for Web Cache Deception
   - Exploiting Origin Server Normalization for Web Cache Deception
+  - Exploiting Cache Server Normalization for Web Cache Deception
+
 
 
 
