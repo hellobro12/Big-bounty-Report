@@ -46,6 +46,8 @@ Includes:
 - **SQL Injection**
   - SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
   - Exploiting Cache Server Normalization for Web Cache Deception
+  - SQLi – get DB version (Oracle)
+  - SQLi – get DB version (MySQL/MSSQL)
 - **NoSQL**
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
@@ -63,6 +65,7 @@ Includes:
   - Exploiting Path Delimiters for Web Cache Deception
   - Exploiting Origin Server Normalization for Web Cache Deception
   - Exploiting Cache Server Normalization for Web Cache Deception
+  - Web Cache Deception – exact match
 
 
 
