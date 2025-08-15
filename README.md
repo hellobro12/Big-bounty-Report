@@ -48,6 +48,7 @@ Includes:
   - Exploiting Cache Server Normalization for Web Cache Deception
   - SQLi – get DB version (Oracle)
   - SQLi – get DB version (MySQL/MSSQL)
+  - Non-Oracle DB schema extraction, Oracle DB schema extraction, Determine column count, Find text column, Retrieve usernames/passwords
 - **NoSQL**
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
