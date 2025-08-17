@@ -49,6 +49,7 @@ Includes:
   - SQLi – get DB version (Oracle)
   - SQLi – get DB version (MySQL/MSSQL)
   - Non-Oracle DB schema extraction, Oracle DB schema extraction, Determine column count, Find text column, Retrieve usernames/passwords
+  - Union attacks to get multiple values, blind SQL injection with conditional responses, and visible error-based SQL injection.
 - **NoSQL**
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
