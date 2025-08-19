@@ -70,7 +70,7 @@ Includes:
   - Exploiting Cache Server Normalization for Web Cache Deception
   - Web Cache Deception – exact match
 - **Cross Site Scripting**
-  - Reflected XSS, Stored XSS
+  - Reflected XSS, Stored XSS,DOM XSS using document.write with location.search.
    
 
 
