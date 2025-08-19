@@ -69,6 +69,9 @@ Includes:
   - Exploiting Origin Server Normalization for Web Cache Deception
   - Exploiting Cache Server Normalization for Web Cache Deception
   - Web Cache Deception – exact match
+- **Cross Site Scripting**
+  - Reflected XSS, Stored XSS
+   
 
 
 
