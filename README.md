@@ -71,6 +71,7 @@ Includes:
   - Web Cache Deception – exact match
 - **Cross Site Scripting**
   - Reflected XSS, Stored XSS,DOM XSS using document.write with location.search.
+  - DOM XSS in jQuery href (location.search), innerHTML (location.search), jQuery selector (hashchange)
    
 
 
