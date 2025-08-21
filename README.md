@@ -72,6 +72,7 @@ Includes:
 - **Cross Site Scripting**
   - Reflected XSS, Stored XSS,DOM XSS using document.write with location.search.
   - DOM XSS in jQuery href (location.search), innerHTML (location.search), jQuery selector (hashchange)
+  - Stored XSS into onclick event, Stored XSS into anchor href attribute (double quotes HTML-encoded),Reflected XSS into a JavaScript string (angle brackets HTML-encoded)
    
 
 
