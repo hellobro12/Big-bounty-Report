@@ -74,6 +74,7 @@ Includes:
   - DOM XSS in jQuery href (location.search), innerHTML (location.search), jQuery selector (hashchange)
   - Stored XSS into onclick event, Stored XSS into anchor href attribute (double quotes HTML-encoded),Reflected XSS into a JavaScript string (angle brackets HTML-encoded)
   - DOM XSS in document.write inside <select>, AngularJS DOM XSS with encoded characters, Reflected DOM XSS via eval()
+  - Stored DOM XSS, Reflected XSS with Most Tags/Attributes Blocked, HTML Context with All Tags Blocked Except Custom Ones.
    
 
 
