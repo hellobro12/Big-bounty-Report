@@ -75,6 +75,7 @@ Includes:
   - Stored XSS into onclick event, Stored XSS into anchor href attribute (double quotes HTML-encoded),Reflected XSS into a JavaScript string (angle brackets HTML-encoded)
   - Stored DOM XSS, Reflected XSS with Most Tags/Attributes Blocked, HTML Context with All Tags Blocked Except Custom Ones.
   - Reflected XSS with SVG markup allowed, in canonical <link> tag, in a JavaScript string with single quote/backslash escaped
+  - Reflected XSS in JavaScript string, Stored XSS in onclick event, XSS to bypass CSRF defenses.
   - DOM XSS in document.write inside <select>, AngularJS DOM XSS with encoded characters, Reflected DOM XSS via eval()
    
 
