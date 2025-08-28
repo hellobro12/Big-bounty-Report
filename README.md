@@ -25,11 +25,11 @@ Includes:
 - How attackers identify and exploit unclaimed subdomains (GitHub-based)
 - Sample bug bounty report with proof-of-concept  
 
-## Labs
+
+# Vulnerability Topics
 
 - **JWT and SSRF**
 - **Stealing OAuth Access Token** (vulnerability)
-- **CSRF** where token is duplicated
 - **Business Logic vulnerabilities**
   - High-level logic issues  
   - Excessive trust in client-side controls
@@ -50,7 +50,7 @@ Includes:
   - SQLi – get DB version (MySQL/MSSQL)
   - Non-Oracle DB schema extraction, Oracle DB schema extraction, Determine column count, Find text column, Retrieve usernames/passwords
   - Error-based Blind SQLi, Time-based Blind SQLi, Time-based Data Extraction
-  - Union attacks to get multiple values, blind SQL injection with conditional responses, and visible error-based SQL injection,filter bypass via XML encoding.
+  - Union attacks to get multiple values, blind SQL injection with conditional responses, and visible error-based SQL injection, filter bypass via XML encoding.
 - **NoSQL**
   - Detecting NoSQL injection
   - Exploiting NoSQL injection to extract data
@@ -70,16 +70,20 @@ Includes:
   - Exploiting Cache Server Normalization for Web Cache Deception
   - Web Cache Deception – exact match
 - **Cross Site Scripting**
-  - Reflected XSS, Stored XSS,DOM XSS using document.write with location.search.
+  - Reflected XSS, Stored XSS, DOM XSS using document.write with location.search.
   - DOM XSS in jQuery href (location.search), innerHTML (location.search), jQuery selector (hashchange)
-  - Stored XSS into onclick event, Stored XSS into anchor href attribute (double quotes HTML-encoded),Reflected XSS into a JavaScript string (angle brackets HTML-encoded)
+  - Stored XSS into onclick event, Stored XSS into anchor href attribute (double quotes HTML-encoded), Reflected XSS into a JavaScript string (angle brackets HTML-encoded)
   - Stored DOM XSS, Reflected XSS with Most Tags/Attributes Blocked, HTML Context with All Tags Blocked Except Custom Ones.
-  - Reflected XSS with SVG markup allowed, in canonical <link> tag, in a JavaScript string with single quote/backslash escaped
+  - Reflected XSS with SVG markup allowed, in canonical `<link>` tag, in a JavaScript string with single quote/backslash escaped
   - Reflected XSS in JavaScript string, Stored XSS in onclick event, XSS to bypass CSRF defenses.
   - Reflected XSS with event handlers and href attributes blocked, in a JavaScript URL with some characters blocked
   - Reflected XSS protected by CSP, with CSP bypass
   - Reflected XSS with AngularJS sandbox escape without strings, sandbox escape and CSP.
-  - DOM XSS in document.write inside <select>, AngularJS DOM XSS with encoded characters, Reflected DOM XSS via eval().
+  - DOM XSS in document.write inside `<select>`, AngularJS DOM XSS with encoded characters, Reflected DOM XSS via eval().
+
+- **CSRF**
+  - CSRF vulnerability with no defenses
+
    
 
 
