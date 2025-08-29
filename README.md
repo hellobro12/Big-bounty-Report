@@ -82,7 +82,7 @@ Includes:
   - DOM XSS in document.write inside `<select>`, AngularJS DOM XSS with encoded characters, Reflected DOM XSS via eval().
 
 - **CSRF**
-  - CSRF vulnerability with no defenses
+  - CSRF vulnerability with no defenses, where token validation depends on request method, token being present.
 
    
 
