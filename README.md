@@ -13,8 +13,8 @@ Each report includes:
 - Summary of the vulnerability
 - Steps to reproduce
 - Impact analysis
-- CVSS and OWASP risk ratings
-- Suggested mitigations
+- CVSS and OWASP risk rating
+- Suggested mitigation
 
 ### 🔐 Subdomain Takeover - Mock Report
 
