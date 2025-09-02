@@ -67,7 +67,7 @@ Includes:
   - Web Cache Deception via Path Mapping
   - Exploiting Path Delimiters for Web Cache Deception
   - Exploiting Origin Server Normalization for Web Cache Deception
-  - Exploiting Cache Server Normalization for Web Cache Deception
+  - Exploiting Cache Server Normalization for Web Cache 
   - Web Cache Deception – exact match
 - **Cross Site Scripting**
   - Reflected XSS, Stored XSS, DOM XSS using document.write with location.search.
