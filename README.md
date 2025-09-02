@@ -29,7 +29,7 @@ Includes:
 # Vulnerability Topics
 
 - **JWT and SSRF**
-- **Stealing OAuth Access Token** (vulnerability)
+- **Stealing OAuth Access Token** 
 - **Business Logic vulnerabilities**
   - High-level logic issues  
   - Excessive trust in client-side controls
