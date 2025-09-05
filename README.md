@@ -65,7 +65,7 @@ Includes:
   - Exploiting XSS through  LLM Chat and Product Reviews
 - **Web Cache**
   - Web Cache Deception via Path Mapping
-  - Exploiting Path Delimiters for Web Cache Deception
+  - Exploiting Path Delimiter for Web Cache Deception
   - Exploiting Origin Server Normalization for Web Cache Deception
   - Exploiting Cache Server Normalization for Web Cache 
   - Web Cache Deception – exact match
