@@ -40,7 +40,7 @@ Includes:
   - Exploiting time-sensitive vulnerabilities
 - **GraphQL**
   - Accessing private GraphQL posts
-  - Accidental exposure of private GraphQL fields
+  - Accidental exposure of private GraphQL field
   - Bypassing GraphQL Brute Force Protections
   - Performing CSRF Exploits Over GraphQL
 - **SQL Injection**
