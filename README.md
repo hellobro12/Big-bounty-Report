@@ -35,7 +35,7 @@ Includes:
   - Excessive trust in client-side controls
 - **Authentication Bypass via Encryption Oracle**
 - **Race Condition**
-  - Lab: Limit overrun race conditions
+  - Limit overrun race conditions
   - Multi-endpoint race conditions
   - Exploiting time-sensitive vulnerabilities
 - **GraphQL**
