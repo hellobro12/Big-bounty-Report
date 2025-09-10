@@ -83,7 +83,7 @@ Includes:
 
 - **CSRF**
   - CSRF vulnerability with no defenses, where token validation depends on request method, token being present.
-  - CSRF where token is not tied to user session, tied to non-session cookie.
+  - CSRF where token is not tied to user session, tied to non session cookie.
 
    
 
