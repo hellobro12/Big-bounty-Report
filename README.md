@@ -39,7 +39,7 @@ Includes:
   - Multi-endpoint race conditions
   - Exploiting time-sensitive vulnerabilities
 - **GraphQL**
-  - Accessing private GraphQL posts
+  - Accessing private GraphQL post
   - Accidental exposure of private GraphQL field
   - Bypassing GraphQL Brute Force Protections
   - Performing CSRF Exploits Over GraphQL
