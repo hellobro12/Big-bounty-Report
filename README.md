@@ -84,6 +84,7 @@ Includes:
 - **CSRF**
   - CSRF vulnerability with no defenses, where token validation depend on request method, token being present.
   - CSRF where token is not tied to user session, tied to non session cookie.
+  - SameSite Lax bypass via method override, SameSite Strict bypass via client-side redirect.
 
    
 
