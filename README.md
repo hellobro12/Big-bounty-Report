@@ -26,7 +26,7 @@ Includes:
 - Sample bug bounty report with proof of concept  
 
 
-# Vulnerability Topics
+# Vulnerability Topic Labs
 
 - **JWT and SSRF**
 - **Stealing OAuth Access Token** 
@@ -86,6 +86,8 @@ Includes:
   - CSRF where token is not tied to user session, tied to non session cookie.
   - SameSite Lax bypass via method override, SameSite Strict bypass via client-side redirect.
   - CSRF where Referer validation depends on header being present.
+- **ClickJacking**
+  - Clickjacking labs.
 
    
 
