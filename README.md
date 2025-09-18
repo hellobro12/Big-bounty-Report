@@ -87,7 +87,7 @@ Includes:
   - SameSite Lax bypass via method override, SameSite Strict bypass via client-side redirect.
   - CSRF where Referer validation depends on header being present.
 - **ClickJacking**
-  - Clickjacking labs.
+  - Basic clickjacking with CSRF token protection, Clickjacking with form input data prefilled from a URL parameter.
 
    
 
