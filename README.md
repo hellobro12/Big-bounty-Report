@@ -90,7 +90,7 @@ Includes:
   - Basic clickjacking with CSRF token protection, Clickjacking with form input data prefilled from a URL parameter.
   - Clickjacking with a frame-buster script, Exploiting clickjacking vulnerability to trigger DOM-based XSS,Multistep Clickjacking.
 - **DOM XXS**
-  - Labs here
+  - DOM XSS using Web Messages
 
    
 
