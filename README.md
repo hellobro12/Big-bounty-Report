@@ -11,7 +11,7 @@ This repository contains a collection of structured vulnerability reports based 
 
 Each report includes:
 - Summary of the vulnerability
-- Steps to reproduce
+- Step to reproduce
 - Impact analysis
 - CVSS and OWASP risk rating
 - Suggested mitigation
