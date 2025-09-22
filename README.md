@@ -91,6 +91,7 @@ Includes:
   - Clickjacking with a frame-buster script, Exploiting clickjacking vulnerability to trigger DOM-based XSS,Multistep Clickjacking.
 - **DOM XXS**
   - DOM XSS using Web Messages,DOM XSS using Web Messages and a JavaScript URL, using Web Messages and JSON.parse.
+  - DOM-based Open Redirection, DOM-based Cookie Manipulation. 
 
    
 
