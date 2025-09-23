@@ -18,7 +18,8 @@ Each report includes:
 
 ### 🔐 Subdomain Takeover - Mock Report
 
-Added  mock bug bounty report demonstrating how subdomain takeover works.  
+Added  mock bug bounty report demonstrating how subdomain takeover work
+.  
 
 Includes:
 - DNS misconfiguration walkthrough
