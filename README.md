@@ -48,7 +48,7 @@ Includes:
   - SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
   - Exploiting Cache Server Normalization for Web Cache Deception
   - SQLi – get DB version (Oracle)
-  - SQLi – get DB version (MySQL/MSSQL)
+  - SQLi –  DB version (MySQL/MSSQL)
   - Non-Oracle DB schema extraction, Oracle DB schema extraction, Determine column count, Find text column, Retrieve usernames/passwords
   - Error-based Blind SQLi, Time-based Blind SQLi, Time-based Data Extraction
   - Union attacks to get multiple values, blind SQL injection with conditional responses, and visible error-based SQL injection, filter bypass via XML encoding.
