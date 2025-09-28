@@ -23,7 +23,7 @@ Added  mock bug bounty report demonstrating how subdomain takeover work
 
 Includes:
 - DNS misconfiguration walkthrough
-- How attackers identify and exploit unclaimed subdomains 
+- How attackers identify and exploit unclaimed subdomain
 - Sample bug bounty report with proof of concept  
 
 
