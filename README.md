@@ -9,7 +9,7 @@ This repository contains a collection of structured vulnerability reports based 
 - [Reflected XSS – DVWA](./reflected-xss-dvwa-report.md)  
 - [SQL Injection – Auth Bypass](./sqli-auth-bypass-report.md)
 
-Each report includes:
+Each report include:
 - Summary of the vulnerability
 - Step to reproduce
 - Impact analysis
