@@ -1,6 +1,6 @@
 # 🔍 Bug Bounty Report
 
-This repository contains a collection of structured vulnerability reports based on real world scenario practiced in controlled environment.
+This repository contains a collection of structured vulnerability report based on real world scenario practiced in controlled environment.
 
 ---
 
