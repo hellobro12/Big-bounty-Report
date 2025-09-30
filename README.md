@@ -32,7 +32,7 @@ Includes:
 - **JWT and SSRF**
 - **Stealing OAuth Access Token** 
 - **Business Logic vulnerabilities**
-  - High-level logic issues  
+  - High level logic issues
   - Excessive trust in client-side controls
 - **Authentication Bypass via Encryption Oracle**
 - **Race Condition**
