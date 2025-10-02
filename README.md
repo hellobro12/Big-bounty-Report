@@ -63,7 +63,7 @@ Includes:
   - Exploiting LLM APIs with excessive agency
   - Exploiting vulnerabilities in LLM APIs
   - Indirect Prompt Injection
-  - Exploiting XSS through  LLM Chat and Product Reviews
+  - Exploiting XSS through  LLM Chat and Product Review
 - **Web Cache**
   - Web Cache Deception via Path Mapping
   - Exploiting Path Delimiter for Web Cache Deception
