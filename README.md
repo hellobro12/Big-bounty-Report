@@ -37,7 +37,7 @@ Includes:
 - **Authentication Bypass via Encryption Oracle**
 - **Race Condition**
   - Limit overrun race conditions
-  - Multi-endpoint race conditions
+  - Multi endpoint race conditions
   - Exploiting time-sensitive vulnerabilities
 - **GraphQL**
   - Accessing private GraphQL post
